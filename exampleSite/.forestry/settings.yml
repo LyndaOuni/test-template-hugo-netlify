@@ -5,13 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: hhhhhh
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
   create: documents
   match: "**/*"
-  new_doc_ext: '.md'
+  new_doc_ext: md
   templates:
   - post
 - type: directory
